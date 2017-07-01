@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/usr/bin/python
 
-echo 1234;
+print (12345)
