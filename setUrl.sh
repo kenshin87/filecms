@@ -2,4 +2,4 @@
 import os
 
 print (12345)
-print os.getcwd()
+print (os.getcwd())
